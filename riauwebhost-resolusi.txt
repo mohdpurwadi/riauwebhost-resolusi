@@ -1,0 +1,4 @@
+Riauwebhost Resolusi:
+- Konsisten membuat project kecil dengan bootstrap
+- konsisten membuat template wordpress dengan bootstrap
+- 
